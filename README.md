@@ -77,11 +77,11 @@ The dashboard contains a dedicated Key Insights page summarizing the major findi
 
 ### Main Dashboard
 
-![Main Dashboard](Screenshots/Dashboard.png)
+![Main Dashboard](Dashboard.png)
 
 ### Key Insights
 
-![Key Insights](Screenshots/Key%20Insights.png)
+![Key Insights](Key%20Insights.png)
 
 ## Conclusion
 
