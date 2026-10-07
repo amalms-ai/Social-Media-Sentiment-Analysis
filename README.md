@@ -81,7 +81,7 @@ The dashboard contains a dedicated Key Insights page summarizing the major findi
 
 ### Key Insights
 
-![Key Insights](Key%20Insights.png)
+![Key Insights](Key-Insights.png)
 
 ## Conclusion
 
