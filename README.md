@@ -87,6 +87,10 @@ The dashboard contains a dedicated Key Insights page summarizing the major findi
 
 This project demonstrates how Power BI can be used to transform social media data into an interactive analytical dashboard. The analysis provides insights into sentiment, engagement, platform performance, geographical distribution, and sentiment trends.
 
-## Author
+#Author
 
 Amal M S
+
+BCA Graduate | Aspiring Data Analyst
+
+Skills:Power BI | SQL | Python | Data Analytics | Data Visualization
